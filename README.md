@@ -14,7 +14,7 @@
 - **主题**：经济林恢复对中国三峡库区土壤物理质量影响的评估：基于功能视角
 - **期刊**：CATENA
 - **DOI**：[10.1016/j.catena.2025.109758](https://doi.org/10.1016/j.catena.2025.109758)
-- **代码/图片仓库**：[https://github.com/zlznevergu/zlzlunwenfuxian](https://github.com/zlznevergu/zlzgroup-lunwenfuxian-project)
+- **代码/图片仓库**：[https://github.com/ly9495/xiangmufuxian.git](https://github.com/ly9495/xiangmufuxian.git)
 
 ---
 
@@ -141,7 +141,7 @@
 
 2. **不同恢复年限**下，经济林恢复表现出一定的阶段性变化特征：前期部分土壤功能有所改善，但随着恢复年限增加，综合土壤物理质量变化不大，说明不同土壤功能之间存在一定权衡关系。
 
-3. 所有复现图形均已成功输出，已保存为 PNG 和 PDF 格式，保存在 [https://github.com/zlznevergu/zlzlunwenfuxian](https://github.com/zlznevergu/zlzlunwenfuxian)，基本还原了原论文图形的主要趋势和结果特征。
+3. 所有复现图形均已成功输出，已保存为 PNG 和 PDF 格式，保存在 [https://github.com/ly9495/xiangmufuxian.git](https://github.com/ly9495/xiangmufuxian.git)，基本还原了原论文图形的主要趋势和结果特征。
 
 ---
 
